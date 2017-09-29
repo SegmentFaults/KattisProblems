@@ -1,3 +1,4 @@
+//accepted solution
 #include <iostream>
 #include <cmath>
 
